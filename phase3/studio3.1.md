@@ -9,3 +9,15 @@ Create a frontal close-up of an Ancient Egyptian funerary mask made of solid gol
 Use perfect symmetry, smooth texture, repeated lines, and rich gold and blue color to create balance and emphasis. Place the mask against a dark background so it fills most of the image.
 
 The mask should clearly represent Ancient Egyptian beliefs about the afterlife. It was created to protect the pharaoh’s spirit and help him live forever after death. The gold and precious materials show the ruler’s divine power, wealth, and importance
+
+Prompt 2
+
+Historical Theme: Art as Religious Instruction for Illiterate Populations
+Historical Period: Romanesque, c. 1050–1130 CE
+Inspired by: Tympanum of the West Portal of Sainte-Foy
+
+Create a Romanesque stone tympanum carved above a church doorway in a semicircular arch. In the center, show Christ seated on a throne, larger than all other figures, raising one hand in blessing and the other in judgment. On one side, show heaven with saints and angels standing in organized rows. On the other side, show hell with demons and sinners in crowded, chaotic scenes.
+
+Use rough limestone, deep carved lines, rigid poses, flattened space, and crowded composition. Create contrast between the calm order of heaven and the confusion of hell.
+
+The sculpture should reflect how medieval churches taught religion to people who could not read. It was made to warn worshippers about sin and encourage faith before entering the church.
